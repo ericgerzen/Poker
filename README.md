@@ -1,1 +1,1 @@
-only frequency.py actually serves a purpose
+only frequency.py serves an actual purpose
